@@ -1,2 +1,2 @@
 # Canteen-Pre-Order
-A lightweight canteen ordering system built with vanilla JavaScript, HTML, and CSS. This mini project allows users to browse menu items and place orders through an intuitive interface. No backend required. Created as a demonstration project.
+A simple canteen pre-order system for VIPS Cafe, built with pure HTML and CSS. Students can fill in their details, select menu items with quantities, choose a pickup time, and submit their order. Built as a mini front-end project for a society interview — no JavaScript or backend involved
